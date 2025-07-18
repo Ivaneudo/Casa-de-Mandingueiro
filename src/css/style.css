@@ -254,13 +254,17 @@ html {
 }
 
 /* Responsividade para telas menores (celular) */
-@media (max-width: 800px) {
+@media (max-width: 768px) {
+
+   body {
+    overflow-x: hidden;
+   }
 
   /* Menu Navbar */
   .navbar {
     gap: 1rem;
     align-items: center;
-    font-size: 1rem;
+    font-size: .8rem;
   }
 
   .text h1 {
