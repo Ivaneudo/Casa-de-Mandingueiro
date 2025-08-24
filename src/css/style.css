@@ -25,25 +25,6 @@ header {
     align-items: center;
 }
 
-/* .nav {
-    display: flex;
-    width: 100%;
-    height: 50px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-} */
-
-/* .navbar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 5rem;
-    width: 100%;
-    list-style: none;
-    color: #fff;
-} */
-
 /* Container da navbar */
 .nav {
   padding: 10px 20px;
